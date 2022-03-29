@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = telusma.nehemia@gmail.com
+	name = Nehemia Telusma
